@@ -535,10 +535,11 @@ button{
   font-size: 24px;
   line-height: 28px;
   color: #070707;
-  flex: 1 0 auto;
+  min-height: 56px;
 }
 .accessories__item-text {
   margin-bottom: 40px;
+  flex: 1 0 auto;
 }
 .accessories__item-price {
   font-weight: 700;
